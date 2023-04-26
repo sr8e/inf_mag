@@ -1,1 +1,1 @@
-"# inf_mag" 
+# inf_mag
